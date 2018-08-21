@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "es6",
+    "target": "es6",
+    "jsx": "react",
+    "moduleResolution": "node",
+    "lib": [
+      "es5",
+      "es2015",
+      "es2015.promise",
+      "dom",
+      "scripthost"
+    ]
+  },
+  "include": [
+    "./src/**/*",
+    "./src/**/**/*",
+    "./src/**/**/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ],
+  "typeRoots": [
+    "./node_modules/@types",
+    "./src/typings/types",
+    "./src/typings/declarations",
+  ]
+}

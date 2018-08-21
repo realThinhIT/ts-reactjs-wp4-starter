@@ -1,0 +1,14 @@
+export const MAIN_COLORS_PINKY = `rgb(235, 59, 108)`;
+export const COLOR_ALICE_BLUE = `#F5FCFF`;
+export const COLOR_WHITE = `#FFFFFF`;
+export const COLOR_GRAY_300 = `#E0E0E0`;
+export const COLOR_BLACK = `#000000`;
+export const COLOR_BLUE_400  = `#42A5F5`;
+export const COLOR_REDDIT_TXT_FIELD_GRAY = `rgb(246, 247, 249)`;
+export const COLOR_REDDIT_TXT_FIELD_GRAY_BD = `rgb(241, 240, 243)`;
+export const COLOR_BLACK_TRANS_0_7 = `rgba(0, 0, 0, 0.7)`;
+export const COLOR_ALM_BLACK_38_38_38_0_7 = `rgba(38, 37, 37, 0.7)`;
+export const COLOR_ALM_BLACK_38_38_38_1_0 = `rgb(38, 37, 37)`;
+export const COLOR_RAZZLE_DAZZLE_ROSE = `#F42CED`;
+export const COLOR_DODGER_BLUE = `#2C8EF4`;
+export const COLOR_MALACHITE = `#25DE5B`;

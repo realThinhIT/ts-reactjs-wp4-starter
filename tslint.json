@@ -1,0 +1,19 @@
+{
+  "extends": ["tslint:latest", "tslint-react"],
+  "rules": {
+    "semicolon": true,
+    "quotemark": [true, "single", "jsx-double"],
+    "trailing-comma": false,
+    "no-console": false,
+    "only-arrow-functions": false,
+    "import-sources-order": false,
+    "ordered-imports": false,
+    "no-submodule-imports": false,
+    "no-shadowed-variable": false,
+    "arrow-parens": false,
+    "member-access": [true, "no-public"],
+    "eofline": false,
+    "object-literal-sort-keys": false,
+    "jsx-boolean-value": false
+  }
+}
